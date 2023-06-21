@@ -1,0 +1,27 @@
+body{
+    background-color:gray;
+}
+div{
+    background-color:white;
+    height: 550px;
+    width: 350px;
+    margin-left:450px;
+    
+    margin-top:50px;
+}
+p{
+    font-size: 15px;
+    margin-left: 40px;
+}
+i{
+ 
+ margin-left: 40px;
+}
+button{
+    background-color: red;
+    margin-left: 10px;
+    
+}
+input{
+    margin-left:40px;
+}

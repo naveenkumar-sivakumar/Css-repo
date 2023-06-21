@@ -1,0 +1,25 @@
+body,h1{
+    background-color: blueviolet;
+    color: beige;
+    text-align: center;
+    }
+div{
+    background-color: antiquewhite;
+    margin: 3px;
+    color: black;
+    height: 350px;
+    width: 300px;
+    margin-left:10px;
+}
+i{
+    margin-top: 70px;
+    font-size: 100px;
+    text-align:center;
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+}
+table{
+    margin-left: 300px;
+}

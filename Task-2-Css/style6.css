@@ -1,0 +1,26 @@
+body{
+    background-color:whitesmoke;
+}
+h1{
+    text-align: center;
+}
+hr{
+    height: 2px;
+    width: 70px;
+    background-color:red
+}
+.red{
+    color: red;
+}
+div{
+    height: 200px;
+    width: 400px;
+    background-color:white;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+table{
+    padding-top: 50px;
+    padding-left:10px;
+
+}

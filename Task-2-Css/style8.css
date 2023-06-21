@@ -1,0 +1,43 @@
+body{
+    background-color: blue;
+}
+div{
+    margin: auto;
+    height: 300px;
+    width: 350px;
+    background-color: aliceblue;
+}
+h1,h3{
+ text-align: center;
+}
+i{
+    height: 25px;
+    width: 70px;
+     padding-top: 10px;
+     
+     margin-left: 24px;
+    
+}
+.label{
+    margin-left: 55px;
+   
+}
+#image1{
+    background-color: blue;
+    text-align: center;
+}
+#image2{
+    background-color: skyblue;
+    text-align: center;
+}
+#image3{
+    background-color: red;
+    text-align: center;
+}
+#login{
+    height: 30px;
+    width: 200px;
+    background-color: red;
+    margin-left: 55px;
+}
+

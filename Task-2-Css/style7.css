@@ -1,0 +1,15 @@
+h1,p{
+    text-align: center;
+}
+    i{
+    font-size: 30px;
+}
+div{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}

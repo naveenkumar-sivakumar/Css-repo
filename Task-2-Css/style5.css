@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+h1{
+    margin-bottom: 10px;
+}
+div{
+    background-color:whitesmoke;
+    margin-left:400px;
+    height: 300px;
+    width:410px;
+}
+i{
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+.form{
+    margin-left: 40px;
+
+}
+button{
+    background-color: red;
+    margin-left: 40px;
+}
