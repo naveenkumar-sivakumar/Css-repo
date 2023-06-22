@@ -1,0 +1,6 @@
+p::first-letter{
+    color: white;
+    font-size: 50px;
+     box-shadow:5px 5px red;
+     background-color: black;
+}

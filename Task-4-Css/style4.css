@@ -1,0 +1,10 @@
+p::before{
+    content: "Before";
+    color: red;
+    font-size: 30px;
+}
+p::after{
+    content: "After";
+    color: red;
+    font-size: 30px;
+}
