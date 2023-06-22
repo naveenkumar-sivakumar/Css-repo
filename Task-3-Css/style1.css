@@ -1,0 +1,12 @@
+body{
+    background-color:slategray;
+}
+ol{
+    list-style-type: disc;
+}
+div{
+    background-color: white;
+    height: 270px;
+    width: 500px;
+    margin-left: 300px;
+}

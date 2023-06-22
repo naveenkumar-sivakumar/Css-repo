@@ -1,0 +1,23 @@
+body{
+    background-color: slategray;
+}
+div{
+    height: 750px;
+    width: 350px;
+    background-color: white;
+    margin-left: 400px;
+}
+#upper{
+    list-style-type: upper-roman;
+}
+#alpha{
+    list-style-type: upper-alpha;
+
+}
+#lower{
+    list-style-type:lower-roman;
+
+}
+h3{
+    color: blue;
+    margin-left: 200px;

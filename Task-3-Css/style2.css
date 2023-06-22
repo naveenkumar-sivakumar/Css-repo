@@ -1,0 +1,12 @@
+body{
+    background-color:slategray;
+}
+ol{
+    list-style-type: decimal;
+}
+div{
+    background-color: white;
+    height: 260px;
+    width: 450px;
+    margin-left: 500px;
+}
