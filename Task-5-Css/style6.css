@@ -1,0 +1,66 @@
+body{
+    background-color: beige;
+}
+.image{
+    background-image:url(https://www.sunway.com.my/stories/wp-content/uploads/2022/04/THE-BANJARAN-IS-ENCIRCLED-BY-NATURAL-CAVES-GEOTHERMAL-HOT-SPRINGS-PRISTINE-JUNGLE.jpg) ;
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+}
+.forest{
+    background-color: white;
+    height: 300px;
+    width: 690px;
+    margin-right: 40px;
+    margin-left: 300px;
+    margin-top: -320px;
+    padding-left: 20px;
+#way{
+     padding-top: 20px; 
+    }
+
+    
+}
+.green{
+    background-image:url(https://i.ytimg.com/vi/xwYPR6pL0-g/maxresdefault.jpg);
+    height:200px;
+    width: 200px;
+    float: left;
+    margin-top: 20px;
+    
+}
+.hill{
+    height:200px;
+    width:280px;
+    background-color:white ;
+    float: left;
+    padding-left: 10px;
+    margin-top: 20px;
+
+    
+}
+.view{
+    background-image: url(https://spfm.com.my/Montana/img/facilities/18_3264.jpg);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.mountain{
+    height: 230px;
+    width: 280px;
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+.heart{
+    
+    
+    float: right;
+    margin-top: -40px;
+    padding-right: 10px;
+    
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+}
+.image{
+    
+    background-color: azure;
+    background-image:url('https://wallpapers.com/images/featured/xayuetybyd5mf1st.jpg');
+    background-size: contain;
+    height: 300px;
+    width:450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.news{
+    background-color: azure;
+    height: 250px;
+    width: 410px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+
+}
+button{
+    color: azure;
+    height: 40px;
+    width: 100px;
+    background-color:black;
+    border-radius: 10px;
+}
