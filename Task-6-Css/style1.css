@@ -1,0 +1,68 @@
+body{
+    background-color: gray;
+}
+.top{
+    font-size: 50px;
+    margin-left: 850px;
+
+}
+.main{
+    height: 650px;
+    width: 400px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    font-size: 30px;
+    margin-left: 270px;
+    margin-top: 15px;
+}
+.left1{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.right{
+    font-size: 30px;
+    margin-left: 10px;
+}
+img{
+    height:150px;
+    width: 150px;
+    border-radius: 100px;
+    margin-left: 120px;
+
+}
+.tick{
+    font-size: 20px;
+    margin-left:-30px;
+   position: relative;
+   top: -20px;
+
+}
+.text{
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color:palevioletred;
+    border: 2px solid palevioletred;
+    border-radius: 20px;
+    margin-left: 100px;
+
+}
+hr{
+    margin-top: 40px;
+}
+.first{
+    margin-left: 50px;
+    display: inline-block;
+}
+.bottom{
+    font-size: 30px;
+    margin-left: 15px;
+}
+

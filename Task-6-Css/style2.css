@@ -1,0 +1,49 @@
+table{
+    height: 500px;
+    width: 1000px;
+    border:1px solid green;
+    
+}
+th{
+    height: 70px;
+    color: white;
+    background-color:green;
+    border-collapse: collapse;
+    }
+.picture{
+         height: 50px;
+         text-align: center;
+    }
+.image{
+    
+    border-radius: 100px;
+}
+tr:nth-child(odd){
+    color:green;
+    background-color:lightgray;
+    border-collapse: collapse;
+    padding: 30px;
+}
+table,tr,td{
+    padding-left: 20px;
+    border-collapse: collapse;
+}
+.top{
+    height: 30px;
+    width: 1000px;
+    background-color:lightseagreen;
+}
+.bottom{
+    height:60px;
+    width:1000px;
+    background-color:lightseagreen;
+}
+.overall{
+    position: relative;
+    left: 200px;
+}
+ 
+    
+
+
+

@@ -1,0 +1,33 @@
+table{
+    height: 200px;
+    width: 500px;
+    position: relative;
+    top: 50px;
+    left: 400px;
+    }
+th{
+    height: 30px;
+    width: 500px;
+    color: white;
+    background-color: lightseagreen;
+    }
+td{
+    text-align: center;
+}
+tr:nth-child(2){
+    height: 50px;
+    width:500px;
+    color:lightseagreen;
+    background-color:lightcyan;
+}
+ table,tr,td{
+    border-collapse: collapse;
+}
+tr:nth-child(4){
+    border-bottom: 3px solid lightseagreen;
+}
+tr:hover{
+background-color:lightskyblue;
+}
+
+
